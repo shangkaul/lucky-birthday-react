@@ -1,2 +1,2 @@
-# lucky-birthday-react
+# cash-reg-react
 Created with CodeSandbox
