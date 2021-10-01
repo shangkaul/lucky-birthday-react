@@ -1,2 +1,2 @@
-# cash-reg-react
-Created with CodeSandbox
+# Lucky Birthday App
+Demo: https://lucky-b-day.netlify.app/
